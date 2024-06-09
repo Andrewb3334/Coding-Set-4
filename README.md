@@ -1,6 +1,6 @@
 # Coding-Set-4
->> int(input('Enter a number'))
+>> int(input('Enter a number: '))
 
-Enter a number1
+Enter a number: 1 
 1
 
