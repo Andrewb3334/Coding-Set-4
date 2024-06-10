@@ -9,3 +9,6 @@ while product < 100:
  if product >= 100:
     print('Product is now greater than or equal to 100. Exiting loop.')
     break 
+
+for number in range(0, 1001, 10):
+print(number, end=',')  
