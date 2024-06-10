@@ -1,4 +1,6 @@
 # Coding-Set-4
+Alg Workbench 1
+
 product = 1
 
 while product < 100:
@@ -10,5 +12,7 @@ while product < 100:
     print('Product is now greater than or equal to 100. Exiting loop.')
     break 
 
+Alg Workbench 3
+
 for number in range(0, 1001, 10):
-print(number, end=',')  
+  print(number, end=',')  
