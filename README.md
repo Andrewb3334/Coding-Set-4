@@ -60,10 +60,17 @@ for hour in range (1, hours + 1):
 
 Exercise 13 
 
-rows = 6
+rows = 7
 
-for i in range(rows, 0, -1) 
-  for j in range(0, i)
+for i in range(rows, 0, -1): 
+    for j in range(0, i):
         print('*', end='')
     print()
+*******
+******
+*****
+****
+***
+**
+*
     
