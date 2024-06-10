@@ -73,4 +73,26 @@ for i in range(rows, 0, -1):
 ***
 **
 *
+
+Exercise 14
+
+rows = 7 
+
+print("##")
+
+for i in range(rows -2, -1, -1):  
+    for j in range(rows - i):
+        if j == 0 or j == rows - i - 1 or i == rows - 1:
+            print('#', end='')
+        else:
+            print(' ', end='')
+    print()
+
+##
+##
+# #
+#  #
+#   #
+#    #
+#     #
     
